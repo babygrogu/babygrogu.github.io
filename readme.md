@@ -23,13 +23,6 @@ git clone https://github.com/pavanjadhaw/birthday-counter
 Edit config object in `scripts/index.js`
 replace name and birthdate
 
-```js
-6   const config = {
-7     birthdate: 'March 14, 2021',
-8     name: 'Victoria'
-9   };
-```
-
 &nbsp;
 
 #### deploying
